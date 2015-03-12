@@ -3,7 +3,7 @@
 ## Installation
 
 ```console
-$ curl --silent https://raw.github.com/kud/makenext/master/makenext.mk > /your/project/root/path/makenext.mk
+$ curl --silent https://raw.githubusercontent.com/kud/makenext/master/makenext.mk > /your/project/root/path/makenext.mk
 ```
 
 ## Usage
