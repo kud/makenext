@@ -13,6 +13,7 @@ In your `Makefile`:
 ```make
 include makenext
 
-command:
-  @ echo "$(ERROR_COLOUR)this $(WARN_COLOUR)is $(OK_COLOUR)a $(NO_COLOUR)test."
+# your code
 ```
+
+For more information, see `demo/Makefile`.
