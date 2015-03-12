@@ -1,0 +1,5 @@
+# Colours
+NO_COLOUR=\x1b[0m
+OK_COLOUR=\x1b[32;01m
+ERROR_COLOUR=\x1b[31;01m
+WARN_COLOUR=\x1b[33;01m
